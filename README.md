@@ -1,15 +1,16 @@
 # World Happiness Report
-Survey across different countries on state of global happiness.
-Evaluating a country's overall happiness in correlation to several relevant factors.
+The World Happiness Report is a survey across different countries on the state of global happiness.
+Each Country is given a ladder score, a value given based on the national average response on state of well-being or happiness.
+This score was evaluated by taking several relevant factors into consideration.
 
-Each Country was given a ladder score, value given based on the national average response on state of well-being or happiness.
-Several Factors were taken into consideration:
-
+### Relevant factors:
 Logged GDP per capita           
 Social support                  
 Healthy life expectancy         
 Freedom to make life choices    
 Generosity                      
-Perceptions of corruption 
+Perceptions of corruption
 
 ## Jupyter Notebook
+Using Python we normalized and cleaned the data, as well as exploring data statistics. Matplotib and Seaborn were used to demonstrate the correlation between overall happiness score and relevant factors.
+
